@@ -94,3 +94,10 @@ Changelog
             nesdstrTubeFaiM
             nesdstrTubeDec
             nesdstrTubeDock
+1.3.0.2
+    Thanks to forum user @QuadrilateralsAreCool for a PR which fixed the following issues:
+        Fixed top node size in the nesdStream12MP
+        Fixed node top and bottom size in the Nesd25LF3 part
+        Fixed tweakscale patch for the nesdmk1StrRCS1, nesdmk1StrRCS2, nesdmk1StrRCS3, nesdmk1StrRCS4
+
+        Note:   @QuadrilateralsAreCool had apparently submitted a PR fixing all the issues which I fixed in 1.3.0.1, but I was not aware of the patch.  My thanks to him for that
